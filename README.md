@@ -1,0 +1,1 @@
+This is just my first project only working with HTML. I began by drawing the layout of the website on paper and thinking about the best way to write the code. Although this seems like an overkill for such a simple project, I've read that it is a good habit to first think about the project and sketch things out with pen and paper before starting with no plan.
